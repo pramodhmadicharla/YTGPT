@@ -44,4 +44,3 @@ Contributions are welcome! If you have any issues or ideas for enhancements, fee
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
